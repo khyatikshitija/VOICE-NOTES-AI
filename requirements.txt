@@ -1,0 +1,5 @@
+streamlit
+faster-whisper
+openai
+python-dotenv
+audio-recorder-streamlit
