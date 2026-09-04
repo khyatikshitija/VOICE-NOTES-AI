@@ -22,6 +22,7 @@ TECHNOLOGY USED
 7. Python-dotenv
 
 WORKING
+```text
 Voice Recording / Audio Upload
             ↓
        FFmpeg Conversion
@@ -33,7 +34,7 @@ Voice Recording / Audio Upload
      Summary + Action Items
             ↓
        Simple Streamlit UI
-
+```
 HOW TO RUN:
 
 1. Clone or download the project
